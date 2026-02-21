@@ -1,5 +1,1 @@
-package Type_Casting_L2;
-
-public class Question_02 {
-    
-}
+//Convert an integer into double and multiply by 2.5 ?

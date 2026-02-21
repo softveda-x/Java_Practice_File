@@ -1,5 +1,1 @@
-package Loops_L5;
-
-public class Question_06 {
-    
-}
+//Count digits in a number.?

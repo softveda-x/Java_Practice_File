@@ -1,5 +1,1 @@
-package Loops_L5;
-
-public class Question_02 {
-    
-}
+//Print numbers from 10 to 1 using while loop.?

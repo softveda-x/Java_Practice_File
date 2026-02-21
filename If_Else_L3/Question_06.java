@@ -1,5 +1,1 @@
-package If_Else_L3;
-
-public class Question_06 {
-    
-}
+//Check whether a number is divisible by both 3 and 5.?

@@ -1,5 +1,1 @@
-package If_Else_L3;
-
-public class Question_01 {
-    
-}
+//Check whether a number is even or odd.?

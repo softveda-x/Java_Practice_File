@@ -1,5 +1,1 @@
-package Loops_L5;
-
-public class Question_09 {
-    
-}
+//Find factorial of a number.?

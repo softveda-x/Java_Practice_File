@@ -1,5 +1,1 @@
-package Loops_L5;
-
-public class Question_07 {
-    
-}
+//Reverse a number.?

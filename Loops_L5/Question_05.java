@@ -1,5 +1,1 @@
-package Loops_L5;
-
-public class Question_05 {
-    
-}
+//Print all even numbers between 1 and 50.?

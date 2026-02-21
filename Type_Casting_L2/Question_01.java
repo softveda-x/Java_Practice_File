@@ -1,0 +1,1 @@
+//Convert a double value into integer and print both values.?

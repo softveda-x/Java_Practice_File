@@ -1,5 +1,1 @@
-package Loops_L5;
-
-public class Question_04 {
-    
-}
+//Print multiplication table of a given number?

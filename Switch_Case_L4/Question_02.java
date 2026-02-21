@@ -1,5 +1,1 @@
-package Switch_Case_L4;
-
-public class Question_02 {
-    
-}
+//Print the day name based on day number (1–7).?

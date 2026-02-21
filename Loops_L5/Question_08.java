@@ -1,5 +1,1 @@
-package Loops_L5;
-
-public class Question_08 {
-    
-}
+//Check whether a number is palindrome.?

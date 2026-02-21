@@ -1,5 +1,1 @@
-package Loops_L5;
-
-public class Question_03 {
-    
-}
+//Print sum of first 10 natural numbers.?
